@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **ksant2109@gmail.com**
 
-- ⚡ About me **Deadcoder and Animelover**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
