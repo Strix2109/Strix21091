@@ -1,6 +1,7 @@
 
 [![MasterHead]<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://github.com/Strix2109" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img data-original-height="562" data-original-width="1000" height="360" src="https://lh3.googleusercontent.com/-WspSYqJ0UIk/YI-gjI0XZPI/AAAAAAAAAe0/KjZk5y3vS0MSCvlRx2KvwPXnZh5z41U9wCNcBGAsYHQ/w640-h360/WhatsApp%2BImage%2B2021-05-03%2Bat%2B12.32.08%2BPM.jpeg" width="640" /></a></div><br />&nbsp;<p></p>
 
+[![@strix_21's Holopin board](https://holopin.io/api/user/board?user=strix_21)](https://holopin.io/@strix_21)
 
 <h1 align="center">Hi 👋, I'm Sant kr.</h1>
 <h3 align="center">Hey, there I am admin of StrixKingdom and STRIX.D groups, i am a student who is passionate about some technology and hacking tricks and this platform is a source from which i can share my knowledge and some useful things. So, i hope you will join us.</h3>
